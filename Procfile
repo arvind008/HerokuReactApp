@@ -1,2 +1,1 @@
-//Procfile
-web: node app.js
+web: node src/App.js
