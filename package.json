@@ -2,6 +2,7 @@
   "name": "corona-app",
   "version": "0.1.0",
   "private": true,
+  "main": "app.js",
   "engines": {
     "npm": "6.13.7",
     "node": "13.10.1"
@@ -14,6 +15,7 @@
     "axios": "^0.19.2",
     "chart.js": "^2.9.3",
     "classnames": "^2.2.6",
+    "express": "^4.17.1",
     "react": "^16.13.1",
     "react-chartjs-2": "^2.9.0",
     "react-countup": "^4.3.3",
