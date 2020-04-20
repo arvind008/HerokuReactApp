@@ -2,7 +2,6 @@
   "name": "corona-app",
   "version": "0.1.0",
   "private": true,
-  "type": "module",
   "engines": {
     "npm": "6.13.7",
     "node": "13.10.1"
